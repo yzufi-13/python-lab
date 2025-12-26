@@ -76,4 +76,5 @@ def menu():
             authenticate(login)
         elif choice == "0":
             break
+
 menu()
