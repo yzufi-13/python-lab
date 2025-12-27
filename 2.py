@@ -29,3 +29,4 @@ def generate_file_hashes(*file_paths):
 if __name__ == "__main__":
     hashes = generate_file_hashes("/mnt/data/apache_logs.txt")
     print("2) Hashes:", hashes)
+
