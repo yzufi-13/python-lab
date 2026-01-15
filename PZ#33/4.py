@@ -1,7 +1,7 @@
 from telethon import TelegramClient
 import asyncio
-api_id=39100935
-api_hash="a3b8e4c4e1d37c58bf6d3790393cdbb3"
+api_id= Test
+api_hash="Test"
 session_name="session"
 async def main():
     print("1) старт програми")
